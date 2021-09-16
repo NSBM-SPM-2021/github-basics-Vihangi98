@@ -2,7 +2,7 @@ package com.example.StudentReg;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-//newcomments
+//newcommentss
 @SpringBootApplication
 public class StudentRegApplication {
 
