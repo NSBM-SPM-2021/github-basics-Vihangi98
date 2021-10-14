@@ -17,7 +17,7 @@ Link to Trello board:https://trello.com/b/YNEql7cn/learning-management-system
 
 Front-end Framework-Bootsrap
 
-Back-end Framework-Spring Boot,MYSQL Database
+Back-end Framework-Spring Boot,MySQL Database
 
 **Deployment**
 
