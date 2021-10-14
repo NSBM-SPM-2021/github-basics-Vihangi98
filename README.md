@@ -17,11 +17,12 @@ Link to Trello board:https://trello.com/b/YNEql7cn/learning-management-system
 
 Front-end Framework-Bootsrap
 
-Back-end Framework-Spring Boot 
+Back-end Framework-Spring Boot,MYSQL Database
 
 **Deployment**
 
 Application hosted URL:https://learningmanagement.azurewebsites.net
 
 ![Screenshot_1](https://user-images.githubusercontent.com/60325057/137399138-6bff37ca-97d7-4074-989a-b57aff76cdf9.png)
+
 ![Screenshot (177)](https://user-images.githubusercontent.com/60325057/137399198-c33b7785-7f65-4eb1-80f3-4b2cdfe97bb2.png)
