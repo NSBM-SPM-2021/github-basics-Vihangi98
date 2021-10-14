@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'LearningManagement'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4440062D50B24020B98AFCB4A5EBFA88 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_64930DABE85840C087A6E0DE8DFD0DDD }}
           package: '*.jar'
