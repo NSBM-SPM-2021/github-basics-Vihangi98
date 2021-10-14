@@ -14,5 +14,6 @@ Link to Trello board:https://trello.com/b/YNEql7cn/learning-management-system
 •	Delete user details 
 
 **Technology Stack**
+
 Front-end Framework-Bootsrap
-Backeend Framework-Spring Boot 
+Back-end Framework-Spring Boot 
